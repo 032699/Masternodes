@@ -251,7 +251,7 @@ function important_information() {
 
 ##### Entry point #####
 checks
-prepare_system
+#prepare_system
 download_node
 get_ip
 create_config
